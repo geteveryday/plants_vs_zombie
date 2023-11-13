@@ -1,4 +1,4 @@
-# Install script for directory: D:/CLion Project/plants_vs_Zombie
+# Install script for directory: D:/CLion Project/plants-vs-Zombies/plants_vs_zombie
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "D:/CLion Project/plants_vs_Zombie/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "D:/CLion Project/plants-vs-Zombies/plants_vs_zombie/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
